@@ -1,4 +1,7 @@
 <img src="banner-compact.svg" alt="Pelin Sarıhan — Senior Software Engineer" width="100%">
+<p>
+  <a href="https://www.pelinsarihan.com/">pelinsarihan.com ↗</a>
+</p>
 
 **About**  
 Senior Software Engineer at Misli, with experience across e-commerce, core banking and betting platforms. Focused on Java, Spring Boot, event-driven systems and microservices. I also contribute to technical improvements and share knowledge through talks and code examples.
